@@ -1,2 +1,2 @@
 # ngemal
-For Marking Location
+First Excercise use phonegap
